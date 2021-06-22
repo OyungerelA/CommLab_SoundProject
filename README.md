@@ -17,6 +17,6 @@ We decided on an overall plotline that would have elements common to both charac
 Parallel to this process, we began working on the website and uploading the sound tracks as we made them. The choices made by the user shapes the audio experience, so interactivity became a major aspect of our website. We went with a more semi-realistic design and used original illustrations for the backgrounds. 
 
 ## Reflection/Evaluation
-With regard to the visual experience on the website, our expectations were fully met (if not exceeded). We are very satisfied with the website's aesthetic and interactive elements.
+With regard to the visual experience on the website, our expectations were fully met. We are very satisfied with the website's aesthetic and interactive elements.
 
 The soundtracks proved harder to create than we’d expected. It was difficult to find some of the more specific sounds, and make sure all of the clips blended into the vast, forest environment. This was especially hard with the sounds we recorded in our closed rooms -- which stood out very clearly in the tracks despite editing it.
