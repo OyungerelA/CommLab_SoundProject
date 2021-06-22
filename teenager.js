@@ -37,13 +37,10 @@ document.getElementById("option32").addEventListener("click",()=>{
 	document.getElementById("audio7").play()
 })
 
+document.getElementById("audio6").addEventListener("ended",()=>{
+	document.getElementById("info").style.display="block"
+})
 
-
-
-
-
-
-
-
-
-
+document.getElementById("audio7").addEventListener("ended",()=>{
+	document.getElementById("info2").style.display="block"
+})
