@@ -1,5 +1,9 @@
 # Auditory Camping Experience
 
+Made by: Oyungerel Amarsanaa, Nouf AlNuaimi, Hanaan Shafi
+
+Communications Lab, Summer 2021
+
 ## Project Description
 This project is an interactive audio experience that tells the story of a family’s camping trip. After a common beginning during which the family packs up and heads to their camp site, the user is presented with an option to pick which family member’s story they’d like to listen to -- the toddler or teenager. The toddler’s sound experience was intended to incorporate fascination and magical elements/sounds. (add sentence about toddler track)
 
@@ -16,6 +20,3 @@ Parallel to this process, we began working on the website and uploading the soun
 With regard to the visual experience on the website, our expectations were fully met (if not exceeded). We are very satisfied with the website's aesthetic and interactive elements.
 
 The soundtracks proved harder to create than we’d expected. It was difficult to find some of the more specific sounds, and make sure all of the clips blended into the vast, forest environment. This was especially hard with the sounds we recorded in our closed rooms -- which stood out very clearly in the tracks despite editing it.
-
-Made by: Oyungerel Amarsanaa, Nouf AlNuaimi, Hanaan Shafi
-Communications Lab, Summer 2021
