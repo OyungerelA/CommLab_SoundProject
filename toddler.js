@@ -123,11 +123,19 @@ document.getElementById("option41").addEventListener("click", ()=>{
 	document.getElementById("audio6").play()
 })
 
+document.getElementById("audio6").addEventListener("ended",()=>{
+	document.getElementById("info").style.display="block"
+})
+
 document.getElementById("option42").addEventListener("click", ()=>{
 	document.getElementById("page8").style.display="block"
 	document.getElementById("page6").style.display="none"
 	// document.getElementById("audio5").stop()
 	document.getElementById("audio7").play()
+})
+
+document.getElementById("audio7").addEventListener("ended",()=>{
+	document.getElementById("info2").style.display="block"
 })
 
 // option1.addEventListener("click",=>{
