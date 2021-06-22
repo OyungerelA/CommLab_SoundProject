@@ -33,7 +33,7 @@ document.getElementById("option1").addEventListener("click", ()=>{
 	document.getElementById("page3").style.display="block"
 	document.getElementById("page2").style.display="none"
 	// document.getElementById("audio").stop()
-
+	document.getElementById("audio").pause()
 })
 
 option2.addEventListener("click",()=>{
@@ -45,6 +45,7 @@ document.getElementById("option2").addEventListener("click", ()=>{
 	document.getElementById("page2").style.display="none"
 	// document.getElementById("audio").stop()
 	// document.getElementById("page3").style.display="none"
+	document.getElementById("audio").pause()
 })
 
 var dynamic2 = document.getElementById("dynamic2")
