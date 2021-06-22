@@ -180,11 +180,11 @@ audio{
 
 .name{
 	position: absolute;
-	margin-left: 38.5%;
+	margin-left: 42.5%;
 	margin-top: 5%;
-	font-size: 9vh;
-	font-family: 'Averia Sans Libre', cursive;
-	letter-spacing: 3px;
+	font-size: 12vh;
+	font-family: 'Amatic SC', cursive;
+	letter-spacing: 5px;
 }
 
 #dynamic2{
