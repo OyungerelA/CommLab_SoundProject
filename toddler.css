@@ -9,8 +9,13 @@ a{
 	text-decoration: none;
 }
 
+h2{
+	font-weight: 300;
+}
+
 html{
 	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 	scroll-behavior: smooth;
 }
 
@@ -26,9 +31,14 @@ section{
 	height: 100%;
 }
 
+.daytime{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
 #page2{
 	position: relative;
-	background-color: #5192A8;
 }
 
 #page2 h1{
@@ -69,9 +79,10 @@ audio{
 
 .question{
 	position: absolute;
-	top: 65%;
+	top: 67%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+	font-weight: 500;
 }
 
 .options{
@@ -99,13 +110,13 @@ audio{
 .option1{
 	background-color: white;
 /*	content: "STAY CLOSER TO FIRE";
-*/	opacity: 0.5;
+*/	opacity: 0.8;
 	margin: auto;
 }
 
 .option2{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
@@ -157,6 +168,30 @@ audio{
 	display: block;
 }
 
+#audio2{
+	visibility: hidden;
+}
+
+#audio3{
+	visibility: hidden;
+}
+
+#audio4{
+	visibility: hidden;
+}
+
+#audio5{
+	visibility: hidden;
+}
+
+#audio6{
+	visibility: hidden;
+}
+
+#audio7{
+	visibility: hidden;
+}
+
 .name{
 /*	position: absolute;
 	margin-top: 1%;
@@ -164,12 +199,13 @@ audio{
 	position: absolute;
 	margin-left: 40%;
 	margin-top: 5%;
-	font-size: 8vh;
+	font-size: 9vh;
+	font-family: 'Schoolbell', cursive;
+	letter-spacing: 8px;
 }
 
 #page3{
 	position: relative;
-	background-color: #5192A8;
 	display: none;
 }
 
@@ -197,13 +233,13 @@ audio{
 
 .option21{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
 .option22{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
@@ -245,7 +281,6 @@ audio{
 
 #page4{
 	position: relative;
-	background-color: #5192A8;
 	display: none;
 }
 
@@ -255,13 +290,11 @@ audio{
 
 #page5{
 	position: relative;
-	background-color: #5192A8;  /*ugh im bored*/
 	display: none;
 }
 
 #page6{
 	position: relative;
-	background-color: #5192A8; /*look around+cool creature*/
 	display: none;
 }
 
@@ -289,13 +322,13 @@ audio{
 
 .option31{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
 .option32{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
@@ -337,7 +370,6 @@ audio{
 
 #page7{
 	position: relative;
-	background-color: #5192A8; /*daze off*/
 	display: none;
 }
 
@@ -365,13 +397,13 @@ audio{
 
 .option41{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
 .option42{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
@@ -413,20 +445,19 @@ audio{
 
 #page8{
 	position: relative;
-	background-color: #5192A8; /*go to tent*/
 	display: none;
 }
 
 
 .option221{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
 .option222{
 	background-color: white;
-	opacity: 0.5;
+	opacity: 0.8;
 	margin: auto;
 }
 
@@ -466,15 +497,28 @@ audio{
 	color: crimson;
 }
 
+.evening{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.night{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
 .info{
 	position: absolute;
-	right: 600px;
+	right: 595px;
 	bottom: 80px;
 	background-color: #FFF9C6;
 	opacity: 0.9;
 	padding: 15px;
 	cursor: pointer;
 	border:2px solid gray;
+	display: none;
 }
 
 .info p{
@@ -484,4 +528,27 @@ audio{
 .info:hover{
 	opacity: 1;
 	background-color: #945659;
+	border:2px solid #3B3245;
+}
+
+.info2{
+	position: absolute;
+	right: 595px;
+	bottom: 80px;
+	background-color: #FFF9C6;
+	opacity: 0.9;
+	padding: 15px;
+	cursor: pointer;
+	border:2px solid gray;
+	display: none;
+}
+
+.info2 p{
+	color: white;
+}
+
+.info2:hover{
+	opacity: 1;
+	background-color: #945659;
+	border:2px solid #3B3245;
 }
