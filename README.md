@@ -17,4 +17,5 @@ With regard to the visual experience on the website, our expectations were fully
 
 The soundtracks proved harder to create than we’d expected. It was difficult to find some of the more specific sounds, and make sure all of the clips blended into the vast, forest environment. This was especially hard with the sounds we recorded in our closed rooms -- which stood out very clearly in the tracks despite editing it.
 
-
+Made by: Oyungerel Amarsanaa, Nouf AlNuaimi, Hanaan Shafi
+Communications Lab, Summer 2021
