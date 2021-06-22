@@ -6,6 +6,7 @@ document.getElementById("option1").addEventListener("click",()=>{
 	document.getElementById("page2").style.display="none"
 	document.getElementById("page4").style.display="block"
 	document.getElementById("audio3").play()
+	document.getElementById("audio").pause()
 })
 
 document.getElementById("option2").addEventListener("click",()=>{
@@ -13,6 +14,7 @@ document.getElementById("option2").addEventListener("click",()=>{
 	document.getElementById("page4").style.display="none"
 	document.getElementById("page5").style.display="block"
 	document.getElementById("audio4").play()
+	document.getElementById("audio").pause()
 })
 
 document.getElementById("audio3").addEventListener("ended",()=>{
