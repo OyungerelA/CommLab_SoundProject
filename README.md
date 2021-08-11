@@ -5,7 +5,7 @@ Made by: Oyungerel Amarsanaa, Nouf AlNuaimi, Hanaan Shafi
 Communications Lab, Summer 2021
 
 ## Project Description
-This project is an interactive audio experience that tells the story of a family’s camping trip. After a common beginning during which the family packs up and heads to their camp site, the user is presented with an option to pick which family member’s story they’d like to listen to -- the toddler or teenager. The toddler’s sound experience was intended to incorporate fascination and magical elements/sounds. (add sentence about toddler track)
+This project is an interactive audio experience that tells the story of a family’s camping trip. After a common beginning during which the family packs up and heads to their camp site, the user is presented with an option to pick which family member’s story they’d like to listen to -- the toddler or teenager. The toddler’s sound experience was intended to incorporate fascination and magical elements/sounds. 
 
 On the other hand, the teenager’s sound experience is a regular experience for the most part, with small elements that portray a typical teen such as dialogues (“ugh, this is so boring”) and behavior (walking far away from the family). Further, the teen’s sound track also ends in a surprising, horror ending -- which adds a contrast to an otherwise regular experience. 
 
